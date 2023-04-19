@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Build-02</string>
+    <string name="iniciar_sesion">Iniciar Sesión</string>
+    <string name="contrasena">Contraseña</string>
+    <string name="apodo">Apodo</string>
+    <string name="iniciar_ses">Iniciar Sesión</string>
+</resources>
